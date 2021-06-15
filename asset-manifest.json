@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/boyangx98.github.io/monsters-rolodex/static/css/main.684526fa.chunk.css",
+    "main.js": "/boyangx98.github.io/monsters-rolodex/static/js/main.ee1b16eb.chunk.js",
+    "main.js.map": "/boyangx98.github.io/monsters-rolodex/static/js/main.ee1b16eb.chunk.js.map",
+    "runtime-main.js": "/boyangx98.github.io/monsters-rolodex/static/js/runtime-main.11e243a6.js",
+    "runtime-main.js.map": "/boyangx98.github.io/monsters-rolodex/static/js/runtime-main.11e243a6.js.map",
+    "static/js/2.053fb966.chunk.js": "/boyangx98.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js",
+    "static/js/2.053fb966.chunk.js.map": "/boyangx98.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/boyangx98.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/boyangx98.github.io/monsters-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/boyangx98.github.io/monsters-rolodex/index.html",
+    "static/css/main.684526fa.chunk.css.map": "/boyangx98.github.io/monsters-rolodex/static/css/main.684526fa.chunk.css.map",
+    "static/js/2.053fb966.chunk.js.LICENSE.txt": "/boyangx98.github.io/monsters-rolodex/static/js/2.053fb966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e243a6.js",
+    "static/js/2.053fb966.chunk.js",
+    "static/css/main.684526fa.chunk.css",
+    "static/js/main.ee1b16eb.chunk.js"
+  ]
+}
