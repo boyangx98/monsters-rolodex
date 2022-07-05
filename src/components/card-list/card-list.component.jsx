@@ -3,10 +3,11 @@ import "./card-list.style.css";
 
 import { Card } from "../card/card.component";
 
-export const CardList = (props) => {
+export const CardList = ({ monsters }) => {
+  // destructure props
   return (
     <div className="card-list">
-      {props.monsters.map((monster) => (
+      {monsters.map((monster) => (
         <Card key={monster.id} monster={monster} />
       ))}
     </div>
