@@ -12,13 +12,13 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
-}
 
-.card-container img {
-  width: 180px;
-  height: 180px;
-}
+  img {
+    width: 180px;
+    height: 180px;
+  }
 
-.card-container:hover {
-  transform: scale(1.05);
+  &:hover {
+    transform: scale(1.05);
+  }
 }
